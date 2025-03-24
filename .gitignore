@@ -1,0 +1,6 @@
+*.csv
+*.DS_Store
+*.zip
+*.pyc
+*.log
+*.json
